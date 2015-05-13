@@ -1,0 +1,2 @@
+# YearlyCostCalculator
+Calculate yearly cost.
